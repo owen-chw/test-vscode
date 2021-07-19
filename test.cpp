@@ -11,8 +11,5 @@ int main(){
 		  out<<s1<<'\n';
 	}
 	int num;
-	
-	int add;
-
-	
+	int plus;
 }
